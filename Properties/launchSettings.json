@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Flexible Stats (loops only, no LINQ)": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
